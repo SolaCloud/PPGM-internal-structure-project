@@ -1,0 +1,15 @@
+"","items","abbrev","contents","endorse_rate_w1","endorse_rate_w2"
+"1","PPGM_1","H1fin","financial concerns",0.013,0.007
+"2","PPGM_2","H2emo","mental stress",0.019,0.01
+"3","PPGM_3","H3rel","relationship issues",0.007,0.004
+"4","PPGM_4","H4hea","health problems",0.004,0.002
+"5","PPGM_5","H5wor","work or school problems",0.005,0.002
+"6","PPGM_6","H6law","illegal acts",0.002,0.001
+"7","PPGM_7","H7oth","others see harms",0.021,0.018
+"8","PPGM_8","I1lim","excessive gambling",0.043,0.038
+"9","PPGM_9","I2cha","chasing losses",0.037,0.033
+"10","PPGM_10","I3imp","failed control attempts",0.039,0.036
+"11","PPGM_11","I4oth","others see impaired control",0.052,0.041
+"12","PPGM_12","A1pre","preoccupation",0.102,0.091
+"13","PPGM_13","A2wit","withdrawal",0.015,0.012
+"14","PPGM_14","A3tol","tolerance",0.012,0.01
