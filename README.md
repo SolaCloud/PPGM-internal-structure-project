@@ -4,3 +4,4 @@ The data analysis codes of the paper "Assessing the factor structure of Problem 
 The link to the pre-registered paper: [paper](link)
 
 ## notations
+The raw data is accessible through the Finnish Social Science Data Archive upon application. 
