@@ -1,7 +1,7 @@
 # PPGM-internal-structure-project
 The data analysis codes of the paper "Assessing the factor structure of Problem and Pathological Gambling Measure (PPGM)"
 
-The link to the preprint paper: [ASSESSING THE FACTOR STRUCTURE OF PROBLEM AND PATHOLOGICAL GAMBLING MEASURE (PPGM)](https://doi.org/10.31234/osf.io/hxupw)
+The link to the published paper: [Assessing the factor structure of the problem and pathological gambling measure (PPGM)]([https://doi.org/10.31234/osf.io/hxupw](https://www.tandfonline.com/doi/full/10.1080/14459795.2025.2481846))
 
 ## notations
 The raw data is accessible through the Finnish Social Science Data Archive upon application. 
